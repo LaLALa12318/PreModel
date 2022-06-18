@@ -1,0 +1,17 @@
+#material: 3 0.001 1 0 liqing
+#material: 3.5 0.001 1 0 liqing1
+#material: 4 0.001 1 0 liqing2
+
+#material: 6 0.001 1 0 suishi
+#material: 7 0.001 1 0 shuini
+#material: 4 0.0001 1 0 shli
+
+#material: 5 0.001 1 0 sha
+#material: 6 0.001 1 0 lishi
+
+#material: 5.5 0.00027 1 0 tu1
+#material: 6 0.0001 1 0 tu2
+#material: 6.1 0.00014 1 0 tu3
+
+#material: 5 0.0001 1 0 concrete
+#material: 1 0 1 0 air
